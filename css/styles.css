@@ -1,3 +1,68 @@
 h1 {
-  color: red;
+  color: #fff;
+  text-align: center;
+}
+.intro{
+  color: #b1efae;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Ubuntu";
+  text-align: center;
+}
+.welcome {
+  background-color: #6be065;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  width: 250px;
+}
+.greetings {
+  padding: 30px;
+
+}
+.colored-section {
+  background-color: #70818f;
+  color: #fff;
+}
+
+/*navbar*/
+.navbar {
+  padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+/* aboutme section*/
+
+.Aboutme {
+  margin-top: 30px;
+  padding: 20px 20px;
+  font-size: 25px;
+}
+.meSection {
+  margin: 20px 30px;
+  font-family: sans-serif;
+}
+/** myProject section.**/
+#myProject {
+  text-align: center;
+  padding:20px 20px;
+  background-color: #15f4ee;
 }
