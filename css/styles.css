@@ -83,6 +83,9 @@ img {
   background-repeat: repeat-x;
 
 }
-.carcolor {
-  background-color: #fff800;
+/**footerSection**/
+
+.connectSocial {
+  padding: 25px;
+  text-align: center;
 }
