@@ -30,7 +30,6 @@ img {
 }
 .colored-section {
   background-color: #70818f;
-  color: #fff;
 }
 
 /*navbar*/
@@ -74,4 +73,16 @@ img {
   text-align: center;
   padding:20px 20px;
   background-color: #15f4ee;
+}
+/** contactMe**/
+
+#contactMe {
+  padding: 40px 0;
+  text-align: center;
+  background-image: url(../images/globalh.jpg);
+  background-repeat: repeat-x;
+
+}
+.carcolor {
+  background-color: #fff800;
 }
