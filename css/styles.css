@@ -80,6 +80,14 @@ h1 {
   padding: 20px 20px;
   background-color: #15f4ee;
 }
+.myProject-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 350px;
+
+}
 
 /** contactMe**/
 #contactMe {
