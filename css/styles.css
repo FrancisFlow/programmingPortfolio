@@ -1,3 +1,4 @@
+/** firstContact**/
 h1 {
   font-family: 'Tangerine', serif;
   font-size: 79px;
@@ -109,4 +110,5 @@ h1 {
 }
 .social-icon {
   margin: 20px 10px;
+  height: 2rem;
 }
