@@ -12,8 +12,8 @@ I incorporated Bootstrap for styling the navbar, carousel for my projects, and f
 CSS was used extensively to style the website.
 Content was added in using HTML.
 ## Support and contact details
-{I'm new to the game of software development and would love and appreciate any contributions that may aid me in the journey to becoming a symbol of world-class programming.
-contact me on francisngigi948@gmail.com, or 0797632307.}
+I'm new to the game of software development and would love and appreciate any contributions that may aid me in the journey to becoming a symbol of world-class software development.
+Contact me on francisngigi948@gmail.com, or 0797632307 for any support.
 ### License
 Licensed under the [MIT-LICENSE](MIT-LICENSE.txt)
-Copyright (c) {2021} **Francis Karanja Ngigi**
+Copyright (c) 2021 **Francis Karanja Ngigi**
