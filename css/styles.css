@@ -61,6 +61,8 @@ h1 {
   background-color: #fff;
   padding: 0 30px;
   margin-top: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
 }
 
 .meSection {
@@ -74,7 +76,9 @@ h1 {
 .codepic {
   float: right;
 }
-
+.Hobbies {
+  margin: 20px;
+}
 /** myProject section.**/
 #myProject {
   text-align: center;
