@@ -4,7 +4,7 @@
 ## Description
 This is my Portfolio Website. In it you will find my previous projects, some information about me and a way to contact me. It's a mark of where I am, as of 9/7/21, in my journey to becoming a world-class software engineer.
 ## Setup/Installation Requirements
-* All you will need to access this project is a working internet connection and the [link]: https://francisflow.github.io/programmingPortfolio/
+* All you will need to access this project is a working internet connection and the link https://francisflow.github.io/programmingPortfolio/
 ## Known Bugs
 No know bugs as off release.
 ## Technologies Used
